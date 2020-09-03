@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/ConsoleProject/v16
+/ConsoleProject/bin/Debug
+/ConsoleProject/obj/Debug

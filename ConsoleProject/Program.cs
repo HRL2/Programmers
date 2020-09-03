@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleProject
 {
@@ -10,6 +6,9 @@ namespace ConsoleProject
     {
         static void Main(string[] args)
         {
+            var test = new Day03();
+            var result = test.solution2("Zbcdefg");
+            Console.WriteLine("result = {0}", result);
         }
     }
 }
