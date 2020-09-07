@@ -46,6 +46,8 @@
     <Compile Include="09월\Day01.cs" />
     <Compile Include="09월\Day02.cs" />
     <Compile Include="09월\Day03.cs" />
+    <Compile Include="09월\Day04.cs" />
+    <Compile Include="09월\Day05.cs" />
     <Compile Include="09월\Test.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
